@@ -5,9 +5,14 @@ Employee-Management is a small entreprise application developed in C Programming
 3. View of any Employee Details
 4. Deleting any Employee from the list
 
-## *How To Run The Project*
-1. Select any C compiler of your choice
-2. Copy the source code and paste in your selected compiler
+## *How to run the project*
+### *Method-1*
+1. Select any C compiler(Either offline or online)
+2. Copy the source code and run through your selected compiler
+### *Method-2*
+1. Download the .exe file from the repositary
+2. The downladed file shows erore, Right Click  and enter "keep" option
+3. Later Click "Run Anyway" 
 
 ## *How to Get Started*
 1. Build and run the project in the compiler
